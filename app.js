@@ -1,0 +1,11 @@
+$(function(){
+    $('.change').click(function(){
+        $('b').toggleClass("font-size");
+    });
+    $('.change-show').click(function(){
+        $('b').toggle();
+    });
+    $('.add-item').click(function(){
+        $('p').toggleClass("hidden");
+    });
+});

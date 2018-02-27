@@ -1,0 +1,17 @@
+body {
+    background-color: blanchedalmond;
+    margin: 0;
+    font-family: Courier New, Courier, monospace;
+    font-size: 20px;
+    color: black;
+}
+
+ul {
+    background-color: rgba(236, 140, 236, 0.411);
+}
+.font-size {
+    font-size: 40px;
+}
+.hidden {
+    display: none;
+}
